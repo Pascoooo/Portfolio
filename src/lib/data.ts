@@ -221,13 +221,13 @@ export const projects = [
     yearStarted: 2024,
   },
   {
-    name: "YountVille Demo",
+    name: "YountVille",
     row: 1,
     type: "web",
     img: "/projects/yountville-demo.webp",
     subheading: "Unreal Engine 5 Demo",
     description:
-      "A demo project developed with Unreal Engine 5 in collaboration with Arcadia-Soft.",
+      "«Yountville» is a first-person story-based horror game, in PSX Style, developed in Unreal Engine 5. The release is a Demo developed in collaboration with my colleagues Alessandro Pellegrino and Kevin Saracino.",
     technologies: [
       technologies.tools.unreal,
     ],
@@ -545,8 +545,8 @@ export const repositories = [
     repo: "FlowChart",
   },
   {
-    name: "YountVille_Demo",
-    description: "YountVille Demo - Unreal Engine 5",
+    name: "YountVille",
+    description: "YountVille - Unreal Engine 5",
     language: "C++",
     url: "https://github.com/Arcadia-Soft/YountVille_Demo",
     owner: "Arcadia-Soft",
